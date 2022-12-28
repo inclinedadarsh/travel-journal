@@ -1,0 +1,10 @@
+.nav {
+    background-color: #F55A5A;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 30px;
+    font-weight: 500;
+    gap: 12px;
+}
